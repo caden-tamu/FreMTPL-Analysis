@@ -1,4 +1,4 @@
-# P&C Actuarial Pricing Project — freMTPL Frequency GLM
+# Actuarial Pricing Project — freMTPL Frequency GLM
 
 ## Overview
 
