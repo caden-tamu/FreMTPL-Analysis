@@ -8,6 +8,8 @@ This project is scoped to **pricing/ratemaking, frequency only**:
 - No reserving component (no loss triangles, development, or IBNR).
 - No severity modeling or pure premium calculation — this is a deliberate scoping decision, made to keep the project finishable, not an oversight. Noted below as a natural extension for future work.
 
+$\frac{1}{t}$
+
 ## Data
 
 - **Source:** freMTPL frequency table (`freq`), joined by `PolicyID` with the severity table. The severity table is **not used** — see scope note above.
