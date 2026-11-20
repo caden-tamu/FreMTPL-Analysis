@@ -8,7 +8,7 @@ This project is scoped to **pricing/ratemaking, frequency only**:
 - No reserving component (no loss triangles, development, or IBNR).
 - No severity modeling or pure premium calculation — this is a deliberate scoping decision, made to keep the project finishable, not an oversight. Noted below as a natural extension for future work.
 
-$\frac{1}{t}$
+This is a test
 
 ## Data
 
